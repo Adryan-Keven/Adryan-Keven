@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Adryan-Keven/Adryan-Keven/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Adryan-Keven/Adryan-Keven/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -36,6 +43,24 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm82a3N2d3F1cWo1YmZ0Zmo1cmRvbjE5bXQzdmM3Ymc3ZmlkMmR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBdfuQVMClAis/giphy.gif"  />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adryan-Keven/Adryan-Keven/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adryan-Keven/Adryan-Keven/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adryan-Keven/Adryan-Keven/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adryan-Keven.Adryan-Keven&"  />
+</div>
 
 ###
