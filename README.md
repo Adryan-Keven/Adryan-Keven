@@ -1,15 +1,18 @@
-<h2 align="left">Hi , my name is Adryan Keven . <br>Software Engineering student focused on web development, creative interfaces and AI-assisted projects.</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Adryan-Keven/Adryan-Keven/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Adryan-Keven/Adryan-Keven/languages-output/languages.svg" height="150" alt="languages graph"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
 
-<div align="left">
+<h2 data-importer="text" align="left">Hi! My name is Adryan Keven. I am a student and technology enthusiast who is beginning my journey in programming and continuously seeking to learn and grow in the field of Information Technology.<br><br>I have knowledge of C#, PHP, HTML, Python, MySQL, Excel, Word, PowerPoint, and Figma, as well as basic skills in video editing and banner design.</h2>
+
+###
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -29,7 +32,13 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<img data-importer="image" align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm82a3N2d3F1cWo1YmZ0Zmo1cmRvbjE5bXQzdmM3Ymc3ZmlkMmR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBdfuQVMClAis/giphy.gif"  />
+
+###
+
+<div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -41,14 +50,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm82a3N2d3F1cWo1YmZ0Zmo1cmRvbjE5bXQzdmM3Ymc3ZmlkMmR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zBdfuQVMClAis/giphy.gif"  />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
+<p data-importer="text" align="left">My goal is to earn opportunities at leading companies, continuously grow as a developer, and provide a better life for my family while building one of my own. One of my biggest dreams is to visit Switzerland.</p>
 
 ###
